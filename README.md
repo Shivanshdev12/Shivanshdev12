@@ -23,17 +23,6 @@ My Portfolio - [Shivansh Mehrotra](https://shivansh.surge.sh)
   <img src="https://github-readme-stats.vercel.app/api?username=Shivanshdev12&hide=stars&show_icons=true&bg_color=282C34&text_color=ffffff&line_height=27" alt="Shivansh's Github stats" />
 </a>
 
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
 
 <!-- links to your social media accounts -->
 
