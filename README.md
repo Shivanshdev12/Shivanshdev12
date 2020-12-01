@@ -1,5 +1,5 @@
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## My name is Shivansh Mehrotra. You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/shivansh-mehrotra-a5b0b9171/)
 
@@ -15,7 +15,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shivanshdev12&bg_color=282C34&text_color=ffffff" />
 </a>
 <a href="https://github.com/Shivanshdev12/Shivanshdev12">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivanshdev12&hide=stars&show_icons=true&bg_color=282C34&text_color=ffffff" alt="Shivansh's Github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shivanshdev12&hide=stars&show_icons=true&bg_color=282C34&text_color=ffffff&line_height=27" alt="Shivansh's Github stats" />
 </a>
 
 <!-- links to social media icons -->
