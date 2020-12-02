@@ -3,6 +3,8 @@
 My name is Shivansh Mehrotra. You can find me on [Linkedin](https://www.linkedin.com/in/shivansh-mehrotra-a5b0b9171/) or
 [AngelList](https://angel.co/u/shivansh-mehrotra)
 
+![](https://komarev.com/ghpvc/?username=Shivanshdev12&color=2bbc8a&style=flat)
+
 My Portfolio - [Shivansh Mehrotra](https://shivansh.surge.sh)
 
 ## 🔧 Technologies & Tools
