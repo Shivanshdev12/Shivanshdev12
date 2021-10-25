@@ -12,8 +12,8 @@ My Portfolio - [Shivansh Mehrotra](https://shivansh.surge.sh)
 ![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Reactjs-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
-<!-- ![](https://img.shields.io/badge/Tools-Nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a) -->
-<!-- ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=2bbc8a) -->
+![](https://img.shields.io/badge/Tools-Nodejs-informational?style=flat&logo=Node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
