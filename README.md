@@ -1,5 +1,5 @@
 
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+## Hi there 👋
 My name is Shivansh Mehrotra. You can find me on [Linkedin](https://www.linkedin.com/in/shivansh-mehrotra-a5b0b9171/) or
 [AngelList](https://angel.co/u/shivansh-mehrotra)
 
